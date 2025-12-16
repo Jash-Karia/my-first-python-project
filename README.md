@@ -1,2 +1,2 @@
-# my-first-python-project
-Learning Python and Data Science
+# My Data Science Journey
+First repository. Learning GitHub.
